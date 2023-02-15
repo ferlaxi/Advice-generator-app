@@ -13,5 +13,5 @@ This is Advice generator app!
 
 
 ## Links
-- Live Site URL: [Advice generator app]()🌐
+- Live Site URL: [Advice generator app](https://random-advice-ferlaxi.netlify.app/)🌐
 - Frontend Mentor - [@ferlaxi](https://www.frontendmentor.io/profile/ferlaxi)
