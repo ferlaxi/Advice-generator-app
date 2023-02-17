@@ -3,7 +3,7 @@ const button = document.getElementById('btn');
 const num = document.getElementById('number');
 
 const apiAdvice = () =>{
-    let url = 'https://api.adviceslip.com/advice'
+    let url = ('https://api.adviceslip.com/advice', { cache: "no-store" })
     fetch (url)
     .then(res => res.json())
     .then(data => {

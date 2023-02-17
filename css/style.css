@@ -510,32 +510,12 @@ video {
   --tw-shadow-color: rgb(0 0 0 / 0.1);
   --tw-shadow: var(--tw-shadow-colored);
 }
-
 @media (min-width: 768px){
   .md\:text-\[28px\]{
     font-size: 28px;
   }
 }
-
 @media (min-width: 1280px){
-  .xl\:w-\[\]{
-    width: ;
-  }
-  .xl\:w-\[4\]{
-    width: 4;
-  }
-  .xl\:w-\[40\]{
-    width: 40;
-  }
-  .xl\:w-\[400\]{
-    width: 400;
-  }
-  .xl\:w-\[400px\]{
-    width: 400px;
-  }
-  .xl\:w-\[00px\]{
-    width: 00px;
-  }
   .xl\:w-\[700px\]{
     width: 700px;
   }
